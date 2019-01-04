@@ -8,7 +8,8 @@
 </head>
 <body>
     
-
+<div id="welcomePg">
+    <div id="welcomeTxt">
 <h1>Word Guess Game: Current TV Shows</h1>
 
 <p>Instructions: Choose one letter at a time. Type your letter to see whether it is one
@@ -18,8 +19,8 @@
     Total loss counter will track games lost.
 </p>
 
-<h4>Press any key to get started!</h4>
-
+<h4>Click WORD GUESS to get started!</h4>
+</div>
 <!-- Hangman Area 
 Word/phrase underscore place holder
 -will need a tv show data to reference and choose random word/phrase
@@ -29,9 +30,11 @@ Word/phrase underscore place holder
 -will need to listen for completion of word/phrase, display win
 -will need to listen for zero remaining guesses, ask "play again or quit"
 -->
-
-<Button></Button>
-
+<div id="buttonContainer">
+<Button id="start" onclick="start()">WORD GUESS</Button>
+<!-- See: JS for getElementById ().style.display = "block" -- this will render game's landing page-->
+</div>
+</div>
 <!-- Counters 
 -will need to count number of guesses, display guesses made/guesses remaining
 -will need to count games won
