@@ -5,7 +5,8 @@ var numWrong = 0;
 var numRight = 0;
 var phraseLength = 0;
 var numChar = 0;
-var phrases = ["Game of Thrones", "Outlander", "Power", "Empire", "Spartacus"];
+var phrases = ["Power", "Game of Thrones", "Spartacus", "Empire", "Orange is the New Black", "Westwood", 
+"Altered Carbon", "Outlander", "Breaking Bad", "Ozark"];
 
 
 function sp(){

@@ -47,7 +47,7 @@ body, html, #category, #category1, #phrases, #introPage, #introText, #introText 
         margin: 10px auto;
 }
 #introText p{
-        font-size: 40px;
+        font-size: 30px;
         text-align: center;
         margin: 0 auto 20px auto;
 }
@@ -176,7 +176,7 @@ body, html, #category, #category1, #phrases, #introPage, #introText, #introText 
 #letter71, #letter72, #letter73, #letter74, #letter75, #letter76, #letter77, #letter78, #letter79, #letter80,
 #letter81, #letter82, #letter83, #letter84, #letter85, #letter86, #letter87, #letter88, #letter89, #letter90,
 #letter91, #letter92, #letter93, #letter94, #letter95, #letter96, #letter97, #letter98, #letter99, #letter100{
-        font-family: 'Gloria Hallelujah', cursive;
+        font-family: 'Shrikhand', cursive;
         width: 50px;
         height: 60px;
         margin-bottom: 40px;
